@@ -1,0 +1,14 @@
+# R and RStudio files
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+
+# macOS system files
+.DS_Store
+
+# Temporary Word/Excel files
+~$*
+
+# Raw survey export: never upload (not shared, contains more than the OSF data)
+*source_2024-03-30*
